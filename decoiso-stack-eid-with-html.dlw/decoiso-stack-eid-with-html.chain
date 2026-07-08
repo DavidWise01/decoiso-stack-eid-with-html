@@ -1,0 +1,9 @@
+ROOT0-DLW-CHAIN-v1
+index : 183
+slug  : decoiso-stack-eid-with-html
+seal  : 78e6f4109d6db9cb34fb13bb4012e80c4af584974cbcb3a65ee3b665425cba4b
+prev  : f471d601038ce3f07c59b95383d4cf04fecccdf2c8a8ae9d15f0df95fc8071ff
+link  : 44db7be8facba64a356792f8f04ab9b7eed10164db65d8023ed1410408ac7bad
+head  : 3447d3a0533aaf1e29a8bdc67a9774884fb3ae9dbc8a17064b7a008ca3c4ec90
+
+— the tether: link = sha256(index|slug|seal|prev). the chain head commits to the whole corpus.
